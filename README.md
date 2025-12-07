@@ -36,8 +36,8 @@ StripeLens is a **minimalist, drop-in microservice** that transforms cryptic Str
 
 ### 2. Installation
 ```bash
-git clone https://github.com/yourusername/stripelens.git
-cd stripelens
+git clone https://github.com/yourusername/StripeLens.git
+cd StripeLens
 pip install -r requirements.txt
 ```
 
@@ -98,3 +98,4 @@ Keep it simple. If you can do it in fewer lines, PRs are welcome.
 ## 📄 License
 
 MIT
+
